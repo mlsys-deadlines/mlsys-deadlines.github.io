@@ -1,0 +1,22 @@
+conferences:
+  - name: OSDI 2027
+    year: 2027
+    id: osdi2027
+    link: https://www.usenix.org/conference/osdi25
+    description: "Symposium on Operating Systems Design and Implementation"
+    deadline: "2026-11-19T23:59:00"
+    timezone: "UTC"
+    place: "TBD"
+    type: Conference
+    tags: [Systems, OS]
+
+  - name: OSDI 2025
+    year: 2025
+    id: osdi2025
+    link: https://www.usenix.org/conference/osdi25
+    description: Symposium on Operating Systems Design and Implementation
+    deadline: "2024-11-19T23:59:00"
+    timezone: "UTC"
+    place: TBD
+    type: Conference
+    tags: [Systems, OS]

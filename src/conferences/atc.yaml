@@ -1,0 +1,11 @@
+conferences:
+  - name: USENIX ATC 2025
+    year: 2025
+    id: atc2025
+    link: https://www.usenix.org/conference/atc25
+    description: "USENIX Annual Technical Conference"
+    deadline: "2025-01-14T23:59:00"
+    timezone: "UTC"
+    place: "Boston, MA"
+    type: Conference
+    tags: [Systems, OS]

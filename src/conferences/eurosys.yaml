@@ -1,0 +1,22 @@
+conferences:
+  - name: EuroSys 2027
+    year: 2027
+    id: eurosys2027
+    link: https://www.eurosys2025.org
+    description: "European Conference on Computer Systems"
+    deadline: "2026-10-17T23:59:00"
+    timezone: "UTC"
+    place: "TBD"
+    type: Conference
+    tags: [Systems, OS]
+
+  - name: EuroSys 2025
+    year: 2025
+    id: eurosys2025
+    link: https://www.eurosys2025.org
+    description: European Conference on Computer Systems
+    deadline: "2024-10-17T23:59:00"
+    timezone: "UTC"
+    place: Rotterdam, Netherlands
+    type: Conference
+    tags: [Systems, OS]

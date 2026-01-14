@@ -1,0 +1,22 @@
+conferences:
+  - name: FAST 2027
+    year: 2027
+    id: fast2027
+    link: https://www.usenix.org/conference/fast25
+    description: "Conference on File and Storage Technologies"
+    deadline: "2026-09-24T23:59:00"
+    timezone: "UTC"
+    place: "Santa Clara, CA"
+    type: Conference
+    tags: [Systems, Storage]
+
+  - name: FAST 2025
+    year: 2025
+    id: fast2025
+    link: https://www.usenix.org/conference/fast25
+    description: Conference on File and Storage Technologies
+    deadline: "2024-09-24T23:59:00"
+    timezone: "UTC"
+    place: Santa Clara, CA
+    type: Conference
+    tags: [Systems, Storage]

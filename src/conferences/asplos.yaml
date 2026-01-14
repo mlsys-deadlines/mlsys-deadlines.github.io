@@ -1,0 +1,22 @@
+conferences:
+  - name: ASPLOS 2026
+    year: 2026
+    id: asplos2026
+    link: https://asplos-conference.org/
+    description: "Conference on Architectural Support for Programming Languages and Operating Systems"
+    deadline: "2025-10-16T23:59:00"
+    timezone: "UTC"
+    place: "TBD"
+    type: Conference
+    tags: [Systems, Arch, PL]
+
+  - name: ASPLOS 2025
+    year: 2025
+    id: asplos2025
+    link: https://asplos-conference.org/2025/
+    description: "Conference on Architectural Support for Programming Languages and Operating Systems"
+    deadline: "2024-10-10T23:59:00"
+    timezone: "UTC"
+    place: "Rotterdam, Netherlands"
+    type: Conference
+    tags: [Systems, Arch, PL]

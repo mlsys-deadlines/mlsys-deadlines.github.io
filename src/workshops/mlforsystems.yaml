@@ -1,0 +1,11 @@
+workshops:
+  - name: ML for Systems (NeurIPS 2025)
+    year: 2025
+    id: mlforsys2025
+    link: https://mlforsystems.org
+    description: "Workshop on Machine Learning for Systems at NeurIPS"
+    deadline: "2025-09-01T23:59:00"
+    timezone: "UTC"
+    place: "TBD"
+    type: Workshop
+    tags: [AI, Systems]

@@ -1,0 +1,22 @@
+conferences:
+  - name: NSDI 2027
+    year: 2027
+    id: nsdi2027
+    link: https://www.usenix.org/conference/nsdi25
+    description: "Symposium on Networked Systems Design and Implementation"
+    deadline: "2026-09-12T23:59:00"
+    timezone: "UTC"
+    place: "Philadelphia, PA"
+    type: Conference
+    tags: [Systems, Networking]
+
+  - name: NSDI 2025
+    year: 2025
+    id: nsdi2025
+    link: https://www.usenix.org/conference/nsdi25
+    description: Symposium on Networked Systems Design and Implementation
+    deadline: "2024-09-12T23:59:00"
+    timezone: "UTC"
+    place: Philadelphia, PA
+    type: Conference
+    tags: [Systems, Networking]
