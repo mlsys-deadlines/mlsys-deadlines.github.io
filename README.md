@@ -1,16 +1,42 @@
-# React + Vite
+# MLSys Deadlines
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight, community-driven deadline tracker for Machine Learning and Systems conferences.
 
-Currently, two official plugins are available:
+## Live Website
+Check out the live tracker here: [https://mustious.github.io/mlsys-deadlines/](https://mustious.github.io/mlsys-deadlines/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Live Countdowns**: Real-time timers for upcoming deadlines.
+- **Curated List**: Focuses on top-tier ML Systems venues like **MLSys, EuroSys, SOSP, OSDI, NSDI, FAST, ASPLOS, and USENIX ATC**.
+- **Workshops Support**: dedicated section for workshops like "ML for Systems".
+- **Filtering**: Easily filter by **Type** (Conference/Workshop) or **Category** (AI, Systems, Storage, etc.).
+- **Timezone Awareness**: Deadlines are displayed in their local timezone with countdowns normalized to your current time.
+- **Calendar Integration**: One-click "Add to Google Calendar" button.
 
-## React Compiler
+## Contributing
+This project is open source and we welcome contributions!
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+To suggest a new conference or update a deadline:
+1.  Fork the repository: [https://github.com/mustious/mlsys-deadlines](https://github.com/mustious/mlsys-deadlines)
+2.  Create a new YAML file in `src/conferences/` or `src/workshops/`.
+3.  Follow the existing schema:
+    ```yaml
+    - name: Conference Name 202X
+      year: 202X
+      id: conf202X
+      link: https://website.com
+      deadline: "YYYY-MM-DDTHH:MM:SS"
+      timezone: "UTC"
+      place: "City, Country"
+      type: Conference
+      tags: [Tag1, Tag2]
+    ```
+4.  Submit a Pull Request!
 
-## Expanding the ESLint configuration
+## Built With
+- **Vite** + **React**
+- **Vanilla CSS** (for lightweight styling)
+- **date-fns** (for time management)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Credits
+Built by [Mustapha Abdullahi](https://mustaphaabdullahi.com) with **Antigravity**.
