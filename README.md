@@ -3,7 +3,7 @@
 A lightweight, community-driven deadline tracker for Machine Learning and Systems conferences.
 
 ## Live Website
-Check out the live tracker here: [https://mustious.github.io/mlsys-deadlines/](https://mustious.github.io/mlsys-deadlines/)
+Check out the live tracker here: [mlsys-deadlines/mlsys-deadlines.github.io](https://mlsys-deadlines.github.io/)
 
 ## Features
 - **Live Countdowns**: Real-time timers for upcoming deadlines.
@@ -17,7 +17,7 @@ Check out the live tracker here: [https://mustious.github.io/mlsys-deadlines/](h
 This project is open source and we welcome contributions!
 
 To suggest a new conference or update a deadline:
-1.  Fork the repository: [https://github.com/mustious/mlsys-deadlines](https://github.com/mustious/mlsys-deadlines)
+1.  Fork the repository: [mlsys-deadlines/mlsys-deadlines.github.io](https://github.com/mlsys-deadlines/mlsys-deadlines.github.io)
 2.  Create a new YAML file in `src/conferences/` or `src/workshops/`.
 3.  Follow the existing schema:
     ```yaml
