@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     yaml()
   ],
-  base: '/mlsys-deadlines/',
+  base: '/',
 })

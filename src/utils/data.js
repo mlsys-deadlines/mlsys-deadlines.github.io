@@ -26,9 +26,14 @@ export function getConferences() {
 
     // Sort by deadline, upcoming first
     return allEvents
-        .map(event => ({
-            ...event,
-            deadlineDate: parseISO(event.deadline)
-        }))
+        .filter(event => event && event.deadline) // data safety check
+        .map(event => {
+            const date = parseISO(event.deadline);
+            return {
+                ...event,
+                deadlineDate: date
+            };
+        })
+        .filter(event => event.deadlineDate && !isNaN(event.deadlineDate)) // Filter out invalid dates
         .sort((a, b) => compareAsc(a.deadlineDate, b.deadlineDate));
 }
