@@ -91,7 +91,7 @@ function App() {
       <footer className="site-footer">
         <p>Built by <a href="https://mustaphaabdullahi.com" target="_blank" rel="noopener noreferrer">Mustapha Abdullahi</a> with <strong>Antigravity</strong>.</p>
         <p className="footer-sub">
-          Community maintained. Send Pull Requests to <a href="https://github.com/mustious/mlsys-deadlines" target="_blank" rel="noopener noreferrer">GitHub</a>.
+          Community maintained. Send Pull Requests to <a href="https://github.com/mlsys-deadlines/mlsys-deadlines.github.io" target="_blank" rel="noopener noreferrer">GitHub</a>.
         </p>
       </footer>
     </div>
