@@ -1,14 +1,26 @@
 conferences:
-  - name: ASPLOS 2026
-    year: 2026
-    id: asplos2026
+  - name: ASPLOS 2027 (April Cycle)
+    year: 2027
+    id: asplos2027april
     link: https://asplos-conference.org/
-    description: "Conference on Architectural Support for Programming Languages and Operating Systems"
-    deadline: "2025-10-16T23:59:00"
-    timezone: "UTC"
+    description: "Conference on Architectural Support for Programming Languages and Operating Systems. Author response: July 6-9, 2026. Notification: July 27, 2026. Major revision option available."
+    deadline: "2026-04-15T23:59:00"
+    timezone: "AoE"
     place: "TBD"
     type: Conference
     tags: [Systems, Arch, PL]
+
+  - name: ASPLOS 2027 (September Cycle)
+    year: 2027
+    id: asplos2027sept
+    link: https://asplos-conference.org/
+    description: "Conference on Architectural Support for Programming Languages and Operating Systems. Author response: Dec 1-4, 2026. Notification: Dec 21, 2026. Major revision option available."
+    deadline: "2026-09-09T23:59:00"
+    timezone: "AoE"
+    place: "TBD"
+    type: Conference
+    tags: [Systems, Arch, PL]
+
 
   - name: ASPLOS 2025
     year: 2025
