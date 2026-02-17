@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abdullm7.github.io/",
+  "homepage": "https://mlsys-deadlines.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
