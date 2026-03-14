@@ -1,4 +1,25 @@
 conferences:
+  - name: EuroSys 2027 (Spring)
+    year: 2027
+    id: eurosys2027spring
+    link: https://www.eurosys2027.org
+    description: "European Conference on Computer Systems"
+    deadline: "2026-05-14T23:59:00"
+    timezone: "UTC"
+    place: "TBD"
+    type: Conference
+    tags: [Systems, OS]
+
+  - name: EuroSys 2027 (Fall)
+    year: 2027
+    id: eurosys2027fall
+    link: https://www.eurosys2027.org
+    description: "European Conference on Computer Systems"
+    deadline: "2026-09-24T23:59:00"
+    timezone: "UTC"
+    place: "TBD"
+    type: Conference
+    tags: [Systems, OS]
   - name: EuroSys 2027
     year: 2027
     id: eurosys2027
