@@ -1,4 +1,15 @@
 conferences:
+  - name: ACM ATC 2026
+    year: 2026
+    id: atc2026
+    link: https://sigops.org/s/conferences/atc/2026/
+    description: "ACM SIGOPS Annual Technical Conference"
+    deadline: "2026-06-10T23:59:00"
+    timezone: "UTC"
+    place: "Shatin, Hong Kong"
+    type: Conference
+    tags: [Systems, OS]
+
   - name: USENIX ATC 2025
     year: 2025
     id: atc2025
