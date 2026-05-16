@@ -1,0 +1,11 @@
+conferences:
+  - name: SIGMOD 2027 (Round 4)
+    year: 2027
+    id: sigmod2027
+    link: https://sigmod.org
+    description: "International Conference on Management of Data"
+    deadline: "2026-10-17T23:59:00"
+    timezone: "UTC"
+    place: "TBD"
+    type: Conference
+    tags: [Databases, Systems]

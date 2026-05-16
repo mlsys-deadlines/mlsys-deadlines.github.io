@@ -1,10 +1,10 @@
 conferences:
-  - name: MLSys 2027
+  - name: MLSys 2027 (TBD)
     year: 2027
     id: mlsys2027
     link: https://mlsys.org
     description: "Conference on Machine Learning and Systems"
-    deadline: "2026-10-06T23:59:00"
+    deadline: "2026-10-30T23:59:00"
     timezone: "UTC"
     place: "TBD"
     type: Conference

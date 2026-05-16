@@ -1,0 +1,11 @@
+conferences:
+  - name: SoCC 2027
+    year: 2027
+    id: socc2027
+    link: https://acmsocc.org
+    description: "ACM Symposium on Cloud Computing"
+    deadline: "2027-02-13T23:59:00"
+    timezone: "UTC"
+    place: "TBD"
+    type: Conference
+    tags: [Cloud, Systems]
